@@ -1,10 +1,10 @@
 # Dashboard de Análisis de Ventas de Videojuegos.🎮
 
-## Introducción General.
+## Introducción General.🚀
 
 Este dashboard interactivo ofrece una **visión integral del rendimiento de ventas en la industria de los videojuegos**, permitiendo explorar las tendencias y métricas clave a través de diversas dimensiones. Ha sido diseñado para facilitar la toma de decisiones estratégicas, identificar oportunidades de mercado y comprender el comportamiento de ventas por diferentes segmentos.
 
-## Propósito y Objetivos.
+## Propósito y Objetivos.📊
 
 El objetivo principal de este dashboard es proporcionar una **herramienta de análisis visual** que permita responder preguntas cruciales como:
 
@@ -43,3 +43,5 @@ El dashboard se organiza en varias secciones para ofrecer una perspectiva comple
 **Explora el dashboard para descubrir más patrones y tendencias en las ventas de videojuegos.**
 
 [Dashboard Interactivo de Ventas de Videojuegos](https://public.tableau.com/app/profile/angel.bernal/viz/DashboardGames_17522885606160/Dashboard1)
+
+![Vista previa del Dashboard de Ventas de Videojuegos](dg.png)
