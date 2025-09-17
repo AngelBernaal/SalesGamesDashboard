@@ -42,6 +42,4 @@ El dashboard se organiza en varias secciones para ofrecer una perspectiva comple
 
 **Explora el dashboard para descubrir más patrones y tendencias en las ventas de videojuegos.**
 
-[Dashboard Interactivo de Ventas de Videojuegos](https://public.tableau.com/app/profile/angel.bernal/viz/DashboardGames_17522885606160/Dashboard1)
-
 ![Vista previa del Dashboard de Ventas de Videojuegos](dg.png)
